@@ -1,4 +1,4 @@
-# miunlock
+# Unlock Bootloader
 ### Installation
 - apt update && apt upgrade
 - apt install git
